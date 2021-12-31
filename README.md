@@ -1,7 +1,6 @@
 ### 👩🏻‍💻 안녕하세요, Back-End Developer 성주호 입니다. ✨
 
 ### 👩🏻‍💻 Languages and Tools
-📍 HTML/CSS, Javascript <br>
 📍 Python, Django , Mysql <br>
 📍 AWS RDS,AWS EC2,Docker-compose <br>
 📍 VS Code, Github, Notion, Jira, Trello, Postman ,Workbench
