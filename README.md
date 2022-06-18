@@ -3,7 +3,7 @@
 ### 👩🏻‍💻 Languages and Tools
 📍 PYTHON, DJANGO ,JAVASCRIPT, MYSQL <br>
 📍 AWS RDS,AWS EC2,Docker-compose <br>
-📍 VS Code, Github, Notion, Jira, Trello, Postman ,Workbench
+📍 VS Code, Github, Notion, Jira, Trello
 
 <a href="https://devjosh.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
