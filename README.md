@@ -1,4 +1,4 @@
-### 👩🏻‍💻 안녕하세요, Back-End Developer 성주호 입니다. ✨
+### 👩🏻‍💻 안녕하세요, 호기심 많은 성주호 입니다. ✨
 
 ### 👩🏻‍💻 Languages and Tools
 📍 PYTHON, DJANGO ,JAVASCRIPT, MYSQL <br>
