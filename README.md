@@ -8,6 +8,7 @@ B2B SaaS 기반의 PM / 서비스 기획자입니다.
 더 나은 제품 경험과 일하는 방식을 설계합니다.
 
 <br/> <a href="https://devjosh.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/> </a> <a href="https://www.instagram.com/s.jooho/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:krjoshua21@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+
 🧭 About Me
 B2B SaaS 솔루션 환경에서 서비스 기획, 기술영업, 운영 업무를 경험하고 있습니다.
 고객의 문제를 정의하고, 요구사항을 기능 명세와 운영 프로세스로 구체화하는 일을 좋아합니다.
@@ -16,9 +17,9 @@ B2B SaaS 솔루션 환경에서 서비스 기획, 기술영업, 운영 업무를
 개발팀과 더 정확하게 협업하기 위해 백엔드, 인프라, 데이터베이스 구조를 꾸준히 학습하고 있습니다.
 
 🏢 Experience
-<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=hi.eoding.com&sz=64" width="42" height="42" alt="eoding logo"/><br/> <strong>어딩 (eoding)</strong><br/> <sub>Current · B2B Travel-tech</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.baemin.com&sz=64" width="42" height="42" alt="Baemin logo"/><br/> <strong>배달의민족</strong><br/> <sub>Previous · Food Delivery Platform</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.crowdworks.ai&sz=64" width="42" height="42" alt="CrowdWorks logo"/><br/> <strong>크라우드웍스</strong><br/> <sub>Previous · AI Data Platform</sub> </td> </tr> </table> </div>
-현재는 어딩에서 B2B 트래블테크 제품과 운영을 경험하고 있으며,
-이전에는 배달의민족과 크라우드웍스에서 플랫폼 비즈니스와 고객 문제 해결을 경험했습니다.
+<div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=hi.eoding.com&sz=64" width="42" height="42" alt="eoding logo"/><br/> <strong>어딩 (eoding)</strong><br/> <sub>Current · 운영매니저</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.crowdworks.ai&sz=64" width="42" height="42" alt="CrowdWorks logo"/><br/> <strong>크라우드웍스</strong><br/> <sub>Previous · AI Data 구축 프로젝트 PL</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.baemin.com&sz=64" width="42" height="42" alt="Baemin logo"/><br/> <strong>배달의민족</strong><br/> <sub>Previous · 로봇배달운영팀 운영매니저</sub> </td> </tr> </table> </div>
+현재는 어딩에서 운영매니저로 B2B 트래블테크 제품과 운영을 경험하고 있으며,
+이전에는 크라우드웍스에서 AI Data 구축 프로젝트 PL, 배달의민족에서 로봇배달운영팀 운영매니저로 일했습니다.
 
 💼 What I Focus On
 Product Management
@@ -58,7 +59,7 @@ Amazon RDS
 Docker Compose
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joshua-sung&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-sung&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center"> <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-sung&theme=tokyonight" alt="Joshua Sung's GitHub profile summary"/> <br/> <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joshua-sung&theme=tokyonight" alt="Repos per language"/> <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joshua-sung&theme=tokyonight" alt="Most committed languages"/> <br/> <img width="95%" src="https://streak-stats.demolab.com?user=Joshua-sung&theme=tokyonight&hide_border=true" alt="Joshua Sung's GitHub streak"/> </div>
 📫 Contact
 <div align="center">
 제품 기획, B2B SaaS, 운영 개선, 기술 기반 협업에 대한 이야기를 나누고 싶습니다.
