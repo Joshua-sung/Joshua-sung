@@ -14,6 +14,7 @@ B2B SaaS 솔루션 환경에서 서비스 기획, 기술영업, 운영 업무를
 개발, 운영, 세일즈 조직 사이에서 맥락을 정리하고 실행 가능한 방향으로 연결합니다.
 사용자 피드백과 운영 데이터를 바탕으로 제품 개선 포인트를 찾고 우선순위를 설계합니다.
 개발팀과 더 정확하게 협업하기 위해 백엔드, 인프라, 데이터베이스 구조를 꾸준히 학습하고 있습니다.
+
 🏢 Experience
 <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=hi.eoding.com&sz=64" width="42" height="42" alt="eoding logo"/><br/> <strong>어딩 (eoding)</strong><br/> <sub>Current · B2B Travel-tech</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.baemin.com&sz=64" width="42" height="42" alt="Baemin logo"/><br/> <strong>배달의민족</strong><br/> <sub>Previous · Food Delivery Platform</sub> </td> <td align="center" width="33%"> <img src="https://www.google.com/s2/favicons?domain=www.crowdworks.ai&sz=64" width="42" height="42" alt="CrowdWorks logo"/><br/> <strong>크라우드웍스</strong><br/> <sub>Previous · AI Data Platform</sub> </td> </tr> </table> </div>
 현재는 어딩에서 B2B 트래블테크 제품과 운영을 경험하고 있으며,
