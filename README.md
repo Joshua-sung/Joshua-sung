@@ -1,8 +1,9 @@
 <div align="center">
 👋 Hi, I'm Joshua Sung
+  
 Product Manager · Service Planner · B2B SaaS Operator
-문제를 구조화하고, 고객의 요구를 실행 가능한 기능과 프로세스로 바꾸는
-B2B SaaS 기반의 PM / 서비스 기획자입니다.
+
+문제를 구조화하고, 고객의 요구를 실행 가능한 기능과 프로세스로 바꾸는 B2B SaaS 기반의 PM / 서비스 기획자입니다.
 
 기술, 운영, 세일즈의 언어를 연결하며
 더 나은 제품 경험과 일하는 방식을 설계합니다.
